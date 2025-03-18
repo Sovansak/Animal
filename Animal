@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+<h1>Animal</h1>
+<p>There are 2 types of anime, Vertebrates and Invertebrates</p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCvlugWU3_7RtN5KXiiW6ZG7cA98559mYB3w&s">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Regenwurm1.jpg/640px-Regenwurm1.jpg" width="200px">
+
+<p>Vertebrates are animals with a back bone.</p>
+<p>Invertebrates are animals with no back bone.</p>
+</body>
+
+</html>
